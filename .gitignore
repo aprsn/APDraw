@@ -1,0 +1,4 @@
+node_modules
+bitbucket-pipelines.yml
+.DS_Store
+.idea
